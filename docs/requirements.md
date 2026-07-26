@@ -1,28 +1,28 @@
-Authentication
+### Authentication
 
 - Login
 - Register
 - JWT
 
-Products
+### Products
 
 - CRUD
 - Search
 - Pagination
 
-Suppliers
+### Suppliers
 
 - CRUD
 
-Categories
+### Categories
 
 - CRUD
 
-Inventory
+### Inventory
 
 - Stock In
 - Stock Out
 
-Dashboard
+### Dashboard
 
 - Statistics
